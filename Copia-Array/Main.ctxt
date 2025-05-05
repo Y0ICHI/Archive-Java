@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=V1\ V2
+comment2.target=void\ Copia(int[],\ int[])
+comment3.params=V
+comment3.target=void\ Stampa(int[])
+comment4.params=V
+comment4.target=void\ SelectionSort(int[])
+comment5.params=V
+comment5.target=void\ SelectionSortInverso(int[])
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Animale
+comment1.params=
+comment1.target=Animale()
+comment2.params=
+comment2.target=void\ InserisciRazza()
+comment3.params=
+comment3.target=void\ InserisciNome()
+comment4.params=
+comment4.target=void\ InserisciEta()
+comment5.params=
+comment5.target=void\ chiudiScanner()
+comment6.params=
+comment6.target=void\ Suono()
+numComments=7

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Ascensore
+comment1.params=numPersoneMAX\ numPiani\ pesoMassimo
+comment1.target=Ascensore(int,\ int,\ float)
+comment10.params=
+comment10.target=void\ Scendi()
+comment11.params=
+comment11.target=void\ StampaStato()
+comment2.params=
+comment2.target=int\ get_Ppartenza()
+comment3.params=
+comment3.target=int\ get_Parrivo()
+comment4.params=
+comment4.target=int[]\ get_Pprenotati()
+comment5.params=
+comment5.target=void\ StampaPrenotati()
+comment6.params=Ppartenza
+comment6.target=void\ set_Ppartenza(int)
+comment7.params=Parrivo
+comment7.target=void\ set_Parrivo(int)
+comment8.params=PrenotazionePiano\ pos
+comment8.target=void\ set_prenotazionePrecisa(int,\ int)
+comment9.params=
+comment9.target=void\ Sali()
+numComments=12

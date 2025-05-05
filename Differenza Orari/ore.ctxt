@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ore
+comment1.params=
+comment1.target=ore()
+comment2.params=
+comment2.target=void\ acquisisci()
+comment3.params=
+comment3.target=void\ visualizza()
+comment4.params=
+comment4.target=int\ minuti()
+comment5.params=
+comment5.target=void\ finalize()
+numComments=6
