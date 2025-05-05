@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=bicicletta
+comment1.params=distanza\ velocit\u00E0
+comment1.target=void\ temporichiesto(double,\ double)
+comment2.params=
+comment2.target=void\ accelerazione()
+comment3.params=
+comment3.target=void\ rallentamento()
+comment4.params=
+comment4.target=void\ frenodicolpo()
+comment5.params=
+comment5.target=void\ guidando()
+comment6.params=
+comment6.target=void\ fermo()
+numComments=7

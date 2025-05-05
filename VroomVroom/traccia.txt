@@ -1,0 +1,4 @@
+crea una interfaccia veicolo 
+una classe bicicletta 
+una classe automobile: oltre ad utilizzare l'interfaccia veicolo andrà ad implementare i metodi della interfaccia motorizzato
+

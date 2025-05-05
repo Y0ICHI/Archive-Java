@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RacchettaTennis
+comment1.params=peso\ prezzo\ colore\ marca\ modello\ tipoCorde
+comment1.target=RacchettaTennis(float,\ float,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ ApplicaSconto()
+numComments=3
