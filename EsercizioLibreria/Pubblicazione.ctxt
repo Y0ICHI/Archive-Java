@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pubblicazione
+comment1.params=titolo\ prezzo
+comment1.target=Pubblicazione(java.lang.String,\ float)
+comment2.params=
+comment2.target=void\ stampaDettagli()
+comment3.params=
+comment3.target=java.lang.String\ descrizione()
+numComments=4

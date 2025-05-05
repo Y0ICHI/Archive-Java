@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Libro
+comment1.params=titolo\ prezzo\ autore\ genere
+comment1.target=Libro(java.lang.String,\ float,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ stampaDettagli()
+numComments=3

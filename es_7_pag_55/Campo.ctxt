@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Campo
+comment1.params=inizio\ fine\ nome
+comment1.target=boolean\ addPren(int,\ int,\ java.lang.String)
+comment2.params=inizio\ fine\ nome
+comment2.target=boolean\ removePren(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=double\ utilizzo()
+numComments=4
