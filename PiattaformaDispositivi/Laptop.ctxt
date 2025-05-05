@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Laptop
+comment1.params=nome\ prezzo\ ram\ batteria\ cpu\ gpu\ peso
+comment1.target=Laptop(java.lang.String,\ double,\ int,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ DettagliTecnici()
+comment3.params=
+comment3.target=void\ aggiornaRAM()
+comment4.params=programma
+comment4.target=void\ avviaProgramma(java.lang.String)
+comment5.params=
+comment5.target=void\ verificaStatoBatteria()
+numComments=6

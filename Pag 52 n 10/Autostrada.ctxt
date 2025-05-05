@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Autostrada
+comment1.params=
+comment1.target=Autostrada()
+comment2.params=veicolo\ festivo\ km
+comment2.target=double\ Pedaggio(int,\ boolean,\ int)
+numComments=3

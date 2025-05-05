@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DispositivoElettronico
+comment1.params=nome\ prezzo
+comment1.target=DispositivoElettronico(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ DettagliTecnici()
+comment3.params=
+comment3.target=void\ dettagli()
+numComments=4

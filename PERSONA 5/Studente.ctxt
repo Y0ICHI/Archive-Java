@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Studente
+comment1.params=
+comment1.target=Studente()
+comment2.params=matricola
+comment2.target=void\ InserisciMatricola(java.lang.String)
+comment3.params=universita
+comment3.target=void\ InserisciUniversita(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ OttieniMatricola()
+comment5.params=
+comment5.target=java.lang.String\ OttieniUniversita()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

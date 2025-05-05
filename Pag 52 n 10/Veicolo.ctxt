@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Veicolo
+comment1.params=
+comment1.target=Veicolo()
+comment2.params=categoria
+comment2.target=void\ getCategoria(int)
+comment3.params=targa
+comment3.target=void\ getTarga(java.lang.String)
+comment4.params=
+comment4.target=void\ Visualizza()
+comment5.params=tipo
+comment5.target=java.lang.String\ TipoVeicolo(int)
+numComments=6

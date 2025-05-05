@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Gestore
+comment1.params=coperto\ tipoVeicolo\ ore
+comment1.target=double\ calcolaCosto(boolean,\ java.lang.String,\ float)
+comment2.params=importo
+comment2.target=void\ aggiornaCassa(double)
+comment3.params=parcheggio
+comment3.target=boolean\ controlloTuttiOccupati(SlotParcheggio[])
+comment4.params=parcheggio
+comment4.target=boolean\ controlloTuttiLiberi(SlotParcheggio[])
+comment5.params=
+comment5.target=double\ getCassa()
+numComments=6

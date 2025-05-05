@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SlotParcheggio
+comment1.params=coperto
+comment1.target=SlotParcheggio(boolean)
+comment2.params=tipoVeicolo\ orarioArrivo
+comment2.target=boolean\ setOccupato(java.lang.String,\ float)
+comment3.params=
+comment3.target=void\ liberaPosto()
+comment4.params=
+comment4.target=boolean\ getCoperto()
+comment5.params=
+comment5.target=boolean\ getOccupato()
+comment6.params=
+comment6.target=java.lang.String\ getTipoVeicolo()
+comment7.params=
+comment7.target=float\ getOrarioArrivo()
+numComments=8

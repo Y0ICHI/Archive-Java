@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Camion
+comment1.params=
+comment1.target=Camion()
+comment2.params=capacit\u00E0
+comment2.target=void\ getCarico(int)
+comment3.params=assi
+comment3.target=void\ getAssi(int)
+comment4.params=lunghezza
+comment4.target=void\ lunghezza(float)
+comment5.params=
+comment5.target=void\ Visualizza()
+numComments=6

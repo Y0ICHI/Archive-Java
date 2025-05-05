@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Smartphone
+comment1.params=nome\ prezzo\ OS\ spazio
+comment1.target=Smartphone(java.lang.String,\ double,\ java.lang.String,\ float)
+comment2.params=
+comment2.target=void\ aggiornamento()
+comment3.params=
+comment3.target=void\ sicronizzazione()
+comment4.params=spazio
+comment4.target=int\ setArchiviazioneUsata(float)
+comment5.params=spazio
+comment5.target=void\ setArchiviazioneLiberata(float)
+comment6.params=
+comment6.target=double\ getArchiviazione()
+comment7.params=
+comment7.target=void\ DettagliTecnici()
+numComments=8

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Auto
+comment1.params=
+comment1.target=Auto()
+comment2.params=passegieri
+comment2.target=void\ getPassegieri(int)
+comment3.params=potenza
+comment3.target=void\ getPotenza(float)
+comment4.params=
+comment4.target=void\ Visualizza()
+numComments=5

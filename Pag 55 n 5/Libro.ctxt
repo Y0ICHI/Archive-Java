@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Libro
+comment1.params=
+comment1.target=Libro()
+comment2.params=
+comment2.target=void\ inizializza()
+comment3.params=
+comment3.target=void\ stampa()
+comment4.params=x
+comment4.target=float\ applicaSconto(int)
+comment5.params=
+comment5.target=void\ chiudiScanner()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tablet
+comment1.params=nome\ prezzo\ ArchiviazioneMassima
+comment1.target=Tablet(java.lang.String,\ double,\ float)
+comment2.params=
+comment2.target=void\ aggiornamento()
+comment3.params=spazio
+comment3.target=int\ setArchiviazioneUsata(float)
+comment4.params=spazio
+comment4.target=void\ setArchiviazioneLiberata(float)
+comment5.params=
+comment5.target=double\ getArchiviazione()
+comment6.params=
+comment6.target=void\ Modalit\u00E0Lettura()
+comment7.params=
+comment7.target=void\ DettagliTecnici()
+numComments=8

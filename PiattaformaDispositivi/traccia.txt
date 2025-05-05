@@ -1,0 +1,11 @@
+Realizzare un sistema per gestire una piattaforma che contenga vari tipi di dispositivi elettronici:
+ Smartphone, laptop e tablet.
+
+Ogni dispositivo ha caratteristiche comuni come nome e prezzo ma funzionalità diverse.
+Utilizza una classe astratta chiamata DispositivoElettronico per le caratteristiche comuni e tre classi derivate: smathphone, laptop e tablet
+
+La classe DisEle, nome e prezzo
+metodo astratto che mostra i dettagli tecnici del dispositivo
+metodo concreto che fornisca una descrizione completa del dispositivo
+
+Classe smarthphone avrà metodo astratto alla classe astratta implementerà un metodo per l'aggiornamento del sistema operativo, un metodo che simuli la sicronizzazione dei dati di backup e un terzo metodo che restituisce lo spazio disponibile in memoria

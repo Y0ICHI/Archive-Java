@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Docente
+comment1.params=
+comment1.target=Docente()
+comment2.params=materia
+comment2.target=void\ InserisciMateria(java.lang.String)
+comment3.params=salario
+comment3.target=void\ InserisciSalario(float)
+comment4.params=
+comment4.target=java.lang.String\ OttieniMateria()
+comment5.params=
+comment5.target=float\ OttieniSalario()
+numComments=6
